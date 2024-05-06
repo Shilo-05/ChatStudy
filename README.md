@@ -1,5 +1,7 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+# Ex. No:1(B) 			Study of Client Server Chat Applications
 
+### Name: Oswald Shilo
+### Reg No: 212223040139
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
